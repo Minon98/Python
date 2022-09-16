@@ -3,4 +3,4 @@
 
 논리와 프로그래밍 기초
 
-Using COLAB
+with COLAB
